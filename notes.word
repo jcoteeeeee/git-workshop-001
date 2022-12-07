@@ -1,1 +1,5 @@
 git diff shows you what would be in the commit 
+
+Git workflow
+1. Never work ont the main branch
+2. Name your br
