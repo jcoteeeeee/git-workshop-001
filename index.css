@@ -1,3 +1,21 @@
 body {
     font-family: sans-serif
 }
+
+.container{
+
+}
+
+.box{
+    height: 100px;
+    width: 100px;
+    border: 1px solid #000
+}
+
+.circle {
+    height: 100px;
+    width: 100px;
+    border: 1px solid #000;
+    border-radius: 50%
+}
+
